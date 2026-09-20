@@ -1,0 +1,10 @@
+{
+  "name": "School Bus & Transit Attendance Hub",
+  "description": "Unified student bus transit and school presence tracking system with schema design, formula generators, Google Apps Script automations, and live reconciliation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
